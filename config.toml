@@ -3,3 +3,4 @@ languageCode = "fr-FR"
 title = "frackher.github.io"
 theme = "happyTanuki"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+publishDir = "docs"
